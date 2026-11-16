@@ -30,8 +30,6 @@ Welcome to my Tableau portfolio! This repository showcases the interactive dashb
 ### 1. 🇬🇧 UK Employment & Industry Growth Analysis (2011–2014)
 An economic and commercial sector breakdown examining job growth across British cities and sub-industries—mirroring **regional retail and market-share performance tracking**[cite: 3, 4].
 
-[![UK Employment Data Dashboard](images/uk-employment-dashboard.png)](https://public.tableau.com/app/profile/alexander.simpson4273/viz/GBEmploymentData_17900039313330/Dashboard1)
-
 * **🔗 Live Dashboard:** [Explore UK Employment Data on Tableau Public](https://public.tableau.com/app/profile/alexander.simpson4273/viz/GBEmploymentData_17900039313330/Dashboard1)[cite: 4]
 * **📊 Visuals Used:** Hierarchical Treemap, Interactive UK Symbol Map, Packed Bubble Chart, and Ranked Bar Chart[cite: 3, 4].
 * **🔍 Key Insights:**
@@ -43,8 +41,6 @@ An economic and commercial sector breakdown examining job growth across British 
 ### 2. 🌍 Global Health Insights & Demographic Trends
 A multi-dimensional dashboard built using the Gapminder dataset to evaluate global life expectancy, BMI correlations, and healthcare disparities across continents[cite: 2, 4].
 
-[![Global Health Insights Dashboard](images/global-health-dashboard.png)](https://public.tableau.com/app/profile/alexander.simpson4273/viz/GlobalHealthDashboard_17900837146650/Dashboard1)
-
 * **🔗 Live Dashboard:** [Explore Global Health Insights on Tableau Public](https://public.tableau.com/app/profile/alexander.simpson4273/viz/GlobalHealthDashboard_17900837146650/Dashboard1)[cite: 4]
 * **📊 Visuals Used:** Choropleth World Map, Multi-Series Line Chart, Scatter Plot, Pie Chart (Quick Table Calculation), and Sorted Bar Chart[cite: 2, 4].
 * **🔍 Key Insights:**
@@ -55,8 +51,6 @@ A multi-dimensional dashboard built using the Gapminder dataset to evaluate glob
 
 ### 3. 🎵 Spotify Genres & Audio Feature Analysis
 An exploratory product and consumer preference dashboard analyzing track popularity, tempo, danceability, and musical valence across genres and artists[cite: 1, 4].
-
-[![Spotify Genres Dashboard](images/spotify-dashboard.png)](https://public.tableau.com/app/profile/alexander.simpson4273/viz/AnalysisofSpotifyGenresandTrackFeatures/Dashboard1)
 
 * **🔗 Live Dashboard:** [Explore Spotify Track Features on Tableau Public](https://public.tableau.com/app/profile/alexander.simpson4273/viz/AnalysisofSpotifyGenresandTrackFeatures/Dashboard1)[cite: 4]
 * **📊 Visuals Used:** Vertical & Horizontal Bar Charts, Multi-Variable Scatter Plot, and Proportional Pie Chart[cite: 1, 4].
