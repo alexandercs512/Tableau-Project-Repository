@@ -30,7 +30,7 @@ Welcome to my Tableau portfolio! This repository showcases the interactive dashb
 ### 1. 🇬🇧 UK Employment & Industry Growth Analysis (2011–2014)
 An economic and commercial sector breakdown examining job growth across British cities and sub-industries—mirroring **regional retail and market-share performance tracking**.
 
-* **🔗 Live Dashboard:** [Explore UK Employment Data on Tableau Public](https://public.tableau.com/app/profile/alexander.simpson4273/viz/GBEmploymentData_17900039313330/Dashboard1)]
+* **🔗 Live Dashboard:** [Explore UK Employment Data on Tableau Public](https://public.tableau.com/app/profile/alexander.simpson4273/viz/GBEmploymentData_17900039313330/Dashboard1)
 * **📊 Visuals Used:** Hierarchical Treemap, Interactive UK Symbol Map, Packed Bubble Chart, and Ranked Bar Chart.
 * **🔍 Key Insights:**
   * Highlighted top-performing commercial sectors, including *Professional, Scientific & Technical* (+134,655) and *Retail Trade*.
@@ -41,7 +41,7 @@ An economic and commercial sector breakdown examining job growth across British 
 ### 2. 🌍 Global Health Insights & Demographic Trends
 A multi-dimensional dashboard built using the Gapminder dataset to evaluate global life expectancy, BMI correlations, and healthcare disparities across continents.
 
-* **🔗 Live Dashboard:** [Explore Global Health Insights on Tableau Public](https://public.tableau.com/app/profile/alexander.simpson4273/viz/GlobalHealthDashboard_17900837146650/Dashboard1)]
+* **🔗 Live Dashboard:** [Explore Global Health Insights on Tableau Public](https://public.tableau.com/app/profile/alexander.simpson4273/viz/GlobalHealthDashboard_17900837146650/Dashboard1)
 * **📊 Visuals Used:** Choropleth World Map, Multi-Series Line Chart, Scatter Plot, Pie Chart (Quick Table Calculation), and Sorted Bar Chart.
 * **🔍 Key Insights:**
   * Used a **Top-N filter** to track long-term life expectancy growth in leading nations (Japan, Switzerland, Sweden, Australia, and Iceland).
@@ -59,6 +59,10 @@ An exploratory product and consumer preference dashboard analyzing track popular
   * Built an interactive **Artist Name slicer** allowing users to drill down into individual artist catalogs and identify breakout hit tracks versus baseline catalog performance.
 
 ---
+
+### 🌟 Reflection
+
+Completing the Tableau projects during my Data Technician bootcamp provided hands-on experience in transforming complex datasets into intuitive, executive-ready dashboards. Through analysing global health metrics, UK employment shifts, and Spotify audio features, I developed core skills in interactive design, cross-sheet filtering, and utilising diverse visualisations such as maps, treemaps, and scatter plots. Ultimately, these projects successfully bridged technical data preparation with compelling data storytelling, highlighting how visual analytics can drive strategic insights for public and commercial sectors.
 
 ## 📁 Repository Structure
 ```text
